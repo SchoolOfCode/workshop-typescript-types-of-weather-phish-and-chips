@@ -1,0 +1,8 @@
+.mainContainer {
+  padding-top: 8rem;
+  align-items: center;
+}
+.searchContainer {
+  display: flex;
+  flex-direction: column;
+}

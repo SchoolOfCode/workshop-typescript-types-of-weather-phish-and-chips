@@ -1,0 +1,11 @@
+.headerContainer {
+  color: white;
+  background-color: rgb(17, 17, 17);
+  padding: 3rem;
+  font-size: x-large;
+  text-align: center;
+  left: 0;
+  top: 0;
+  width: 100%;
+  position: fixed;
+}

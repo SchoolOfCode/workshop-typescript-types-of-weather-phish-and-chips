@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  padding: 1rem;
+}
+.btnDesign {
+  margin: 1rem;
+  padding: 0.6rem;
+  color: white;
+  width: 10rem;
+  border-radius: 0.4rem;
+  background-color: rgb(17, 17, 17);
+}
+.searchContainer {
+  padding: 1rem;
+  margin: 1rem;
+}
+.inputDesign {
+  border-radius: 0.4rem;
+  padding: 0.6rem;
+  width: 15rem;
+  border: 1px solid black;
+}
